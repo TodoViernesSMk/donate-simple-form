@@ -1,0 +1,232 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Donate Simple Form\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-06-23 23:43+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: donate-simple-form.php:51
+msgid "Donate Simple Form: Requires php version 5.6.0 or higher."
+msgstr ""
+
+#: donate-simple-form.php:57
+msgid ""
+"Donate Simple Form requires OpenSSL >= 1.0.1 to be installed on your server"
+msgstr ""
+
+#: includes/class-donate-simple-form-dvsmp-shortcode.php:22
+msgid "Donation"
+msgstr ""
+
+#: includes/class-donate-simple-form-dvsmp-shortcode.php:43
+#, php-format
+msgid "Approved transaction, ID of the transaction: %s"
+msgstr ""
+
+#: includes/class-donate-simple-form-dvsmp-shortcode.php:56
+#, php-format
+msgid "Pending transaction, ID of the transaction: %s"
+msgstr ""
+
+#: includes/class-donate-simple-form-dvsmp-shortcode.php:65
+#: includes/class-donate-simple-form-dvsmp-shortcode.php:82
+msgid "Donate your support"
+msgstr ""
+
+#: includes/class-donate-simple-form-dvsmp-shortcode.php:68
+msgid "Amount"
+msgstr ""
+
+#: includes/class-donate-simple-form-dvsmp-shortcode.php:70
+msgid "Name and last name"
+msgstr ""
+
+#: includes/class-donate-simple-form-dvsmp-shortcode.php:72
+msgid "Company Name"
+msgstr ""
+
+#: includes/class-donate-simple-form-dvsmp-shortcode.php:74
+msgid "Email Address"
+msgstr ""
+
+#: includes/class-donate-simple-form-dvsmp-shortcode.php:78
+msgid "Payment Method"
+msgstr ""
+
+#: includes/class-donate-simple-form-dvsmp-shortcode.php:87
+msgid "Tell Me More"
+msgstr ""
+
+#: includes/class-donate-simple-form-dvsmp-plugin.php:72
+msgid "Donate Simple Form can only be called once"
+msgstr ""
+
+#: includes/class-donate-simple-form-dvsmp-plugin.php:99
+msgid "Settings"
+msgstr ""
+
+#: includes/class-donate-simple-form-dvsmp-plugin.php:122
+msgid "The api key is required"
+msgstr ""
+
+#: includes/class-donate-simple-form-dvsmp-plugin.php:123
+msgid "The payment has been successful"
+msgstr ""
+
+#: includes/class-donate-simple-form-dvsmp-plugin.php:124
+msgid "You have canceled the payment"
+msgstr ""
+
+#: includes/class-donate-simple-form-dvsmp-plugin.php:125
+msgid "Error when making the payment, please try again"
+msgstr ""
+
+#: includes/class-donate-simple-form-dvsmp-admin.php:23
+msgid "Configuration"
+msgstr ""
+
+#: includes/class-donate-simple-form-dvsmp-admin.php:24
+msgid "Donations"
+msgstr ""
+
+#: includes/class-donate-simple-form-dvsmp-admin.php:44
+msgid "Environment"
+msgstr ""
+
+#: includes/class-donate-simple-form-dvsmp-admin.php:47
+msgid "Sandbox"
+msgstr ""
+
+#: includes/class-donate-simple-form-dvsmp-admin.php:48
+msgid "Live"
+msgstr ""
+
+#: includes/class-donate-simple-form-dvsmp-admin.php:53
+#: includes/class-donate-simple-form-dvsmp-admin.php:132
+msgid "Currency"
+msgstr ""
+
+#: includes/class-donate-simple-form-dvsmp-admin.php:56
+msgid "Argentine peso"
+msgstr ""
+
+#: includes/class-donate-simple-form-dvsmp-admin.php:57
+msgid "Australian dollar"
+msgstr ""
+
+#: includes/class-donate-simple-form-dvsmp-admin.php:58
+msgid "Brazilian real"
+msgstr ""
+
+#: includes/class-donate-simple-form-dvsmp-admin.php:59
+msgid "Canadian dollar"
+msgstr ""
+
+#: includes/class-donate-simple-form-dvsmp-admin.php:60
+msgid "Chinese Yuan"
+msgstr ""
+
+#: includes/class-donate-simple-form-dvsmp-admin.php:61
+msgid "Chilean peso"
+msgstr ""
+
+#: includes/class-donate-simple-form-dvsmp-admin.php:62
+msgid "Colombian peso"
+msgstr ""
+
+#: includes/class-donate-simple-form-dvsmp-admin.php:63
+msgid "French franc"
+msgstr ""
+
+#: includes/class-donate-simple-form-dvsmp-admin.php:64
+msgid "Hong Kong dollar"
+msgstr ""
+
+#: includes/class-donate-simple-form-dvsmp-admin.php:65
+msgid "Indian Rupee"
+msgstr ""
+
+#: includes/class-donate-simple-form-dvsmp-admin.php:66
+msgid "Ireland euro"
+msgstr ""
+
+#: includes/class-donate-simple-form-dvsmp-admin.php:67
+msgid "Malaysian Ringgit"
+msgstr ""
+
+#: includes/class-donate-simple-form-dvsmp-admin.php:68
+msgid "Mexican peso"
+msgstr ""
+
+#: includes/class-donate-simple-form-dvsmp-admin.php:73
+msgid "Visa checkout:"
+msgstr ""
+
+#: includes/class-donate-simple-form-dvsmp-admin.php:76
+msgid "Apikey"
+msgstr ""
+
+#: includes/class-donate-simple-form-dvsmp-admin.php:82
+msgid "payU latam:"
+msgstr ""
+
+#: includes/class-donate-simple-form-dvsmp-admin.php:85
+msgid "Api key"
+msgstr ""
+
+#: includes/class-donate-simple-form-dvsmp-admin.php:91
+msgid "Merchant Id"
+msgstr ""
+
+#: includes/class-donate-simple-form-dvsmp-admin.php:97
+msgid "Account Id"
+msgstr ""
+
+#: includes/class-donate-simple-form-dvsmp-admin.php:120
+msgid "No donations made to show"
+msgstr ""
+
+#: includes/class-donate-simple-form-dvsmp-admin.php:128
+msgid "Name"
+msgstr ""
+
+#: includes/class-donate-simple-form-dvsmp-admin.php:129
+msgid "Company"
+msgstr ""
+
+#: includes/class-donate-simple-form-dvsmp-admin.php:130
+msgid "Email"
+msgstr ""
+
+#: includes/class-donate-simple-form-dvsmp-admin.php:131
+msgid "Price"
+msgstr ""
+
+#: includes/class-donate-simple-form-dvsmp-admin.php:133
+msgid "Payment method"
+msgstr ""
+
+#. Name of the plugin
+msgid "Donate Simple Form"
+msgstr ""
+
+#. Description of the plugin
+msgid "Donation simple form with Visa payment method."
+msgstr ""
+
+#. Author of the plugin
+msgid "Saul Morales Pacheco"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://saulmoralespa.com"
+msgstr ""
